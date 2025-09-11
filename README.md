@@ -30,3 +30,9 @@ Sou Aluno do IFAC. Apaixonado por programação e jogos, sempre em busca de novo
 
 - ✉️ Email: emailinstitucional20@gmail.com
 
+- ## ✨ Um pouco de diversão
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF">
+</p>
+
