@@ -1,4 +1,8 @@
-# Olá, eu sou [Seu Nome] 👋
+<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+</p>
 
 Sou [sua profissão ou área de atuação, como Desenvolvedor de Software, Designer, etc.]. Apaixonado por [coisas que você gosta ou se interessa, como programação, design, IA, etc.], sempre em busca de novos desafios e oportunidades de aprender.
 
