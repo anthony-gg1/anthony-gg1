@@ -1,26 +1,26 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou Anthony 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
 
-Sou [sua profissão ou área de atuação, como Desenvolvedor de Software, Designer, etc.]. Apaixonado por [coisas que você gosta ou se interessa, como programação, design, IA, etc.], sempre em busca de novos desafios e oportunidades de aprender.
+Sou Aluno do IFAC. Apaixonado por programação e jogos, sempre em busca de novos desafios e oportunidades de aprender.
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando em: [projeto ou área de interesse atual]
-- 🌱 Estou aprendendo: [habilidades ou tecnologias que você está aprendendo no momento]
-- 👯 Buscando colaborar em: [tipo de projetos ou áreas em que você deseja colaborar]
-- 🤔 Perguntando-me sobre: [algum tema ou dúvida que você está explorando]
-- 💬 Pergunte-me sobre: [assuntos nos quais você é especialista ou tem experiência]
-- ⚡ Curiosidade: [algo curioso sobre você, como hobbies ou interesses]
+- 🔭 Atualmente trabalhando em: Projetos de Jogos
+- 🌱 Estou aprendendo: HolyC, GML (Game Maker Language), Lua, C++
+- 👯 Buscando colaborar em: Projetos de Sistemas e Códigos de automação
+- 🤔 Perguntando-me sobre: Como baixar o HolyC em Windows
+- 💬 Pergunte-me sobre: PHP, MySQL, MySQLI, Java, Python, POO, C, C++, HTML, CSS, Bootstrap, Banco de Dados
+- ⚡ Curiosidade: Gosto de programar. jogar, entre outros. Sei montar robôs com Arduino do 0, as vezes crio um projeto de algum jogo.
 
 ## 💻 Tecnologias que eu uso
 
-- [Tecnologia 1]
-- [Tecnologia 2]
-- [Tecnologia 3]
-- [Tecnologia 4]
+- C++
+- PHP
+- C
+- HTML, CSS, Bootstrap e TypeScript
 
 ## 📈 Estatísticas
 
@@ -28,8 +28,5 @@ Sou [sua profissão ou área de atuação, como Desenvolvedor de Software, Desig
 
 ## 📫 Como entrar em contato
 
-- ✉️ Email: [Seu e-mail]
-- 🔗 LinkedIn: [Seu LinkedIn]
-- 🌐 Portfólio: [Seu portfólio ou website pessoal]
-- 🐦 Twitter: [Seu Twitter] (opcional)
+- ✉️ Email: emailinstitucional20@gmail.com
 
