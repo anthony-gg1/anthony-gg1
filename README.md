@@ -23,6 +23,9 @@ Sou Aluno do IFAC. Apaixonado por programação e jogos, sempre em busca de novo
 - PHP
 - C
 - HTML, CSS, Bootstrap e TypeScript
+- MySQL
+- GML
+- Java
 
 ## 📊 Estatísticas do GitHub
 
