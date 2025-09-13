@@ -12,7 +12,7 @@ Sou Aluno do IFAC. Apaixonado por programação e jogos, sempre em busca de novo
 - 🌱 Estou aprendendo: HolyC, GML (Game Maker Language), Lua, C++
 - 👯 Buscando colaborar em: Projetos de Sistemas e Códigos de automação
 - 🤔 Perguntando-me sobre: Como baixar o HolyC em Windows
-- 💬 Pergunte-me sobre: PHP, MySQL, MySQLI, Java, Python, POO, C, C++, HTML, CSS, Bootstrap, Banco de Dados
+- 💬 Pergunte-me sobre: PHP, MySQL, MySQLI, Java, Python, POO, C, C++, HTML, CSS, Bootstrap, Banco de Dados Relacionais
 - ⚡ Curiosidade: Gosto de programar. jogar, entre outros. Sei montar robôs com Arduino do 0, as vezes crio um projeto de algum jogo.
 
 ## 💻 Tecnologias que eu uso
