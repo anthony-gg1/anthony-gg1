@@ -27,13 +27,6 @@ Sou Aluno do IFAC. Apaixonado por programação e jogos, sempre em busca de novo
 - GML
 - Java
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seunome&theme=radical" />
-</p>
-
 ## 📫 Como entrar em contato
 
 - ✉️ Email: emailinstitucional20@gmail.com
