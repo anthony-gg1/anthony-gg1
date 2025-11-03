@@ -11,22 +11,23 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Games-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arduino-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Aluno do IFAC
-- 💻 Apaixonado por programação, jogos e automação
-- 🕹️ Sempre em busca de novos desafios e oportunidades de aprender
-- 🤖 Sei montar robôs com Arduino do zero
-- 🧩 Gosto de criar projetos de jogos, automação e sistemas web
-- 🛠️ Curto mais lógica e funcionalidade do que design visual
+- 🎓 Estudante no IFAC  
+- 💻 Apaixonado por programação, jogos e automação  
+- 🕹️ Sempre em busca de novos desafios e aprendizado contínuo  
+- 🤖 Construo robôs com Arduino do zero  
+- 🧩 Crio projetos de jogos, automação e sistemas web  
+- 🛠️ Prefiro lógica e funcionalidade a puro design  
 
 ---
 
-## 🏆 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anthony-gg1&show_icons=true&theme=radical" alt="Anthony GitHub Stats" />
@@ -35,16 +36,16 @@
 
 ---
 
+## 💻 Tecnologias & Ferramentas
 
-## 💻 Tecnologias e Ferramentas
-
-<div align="center">
+<div align="">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GML-8FBC8F?style=for-the-badge"/>
@@ -57,26 +58,29 @@
 
 ## 🌱 Atualmente aprendendo
 
-- HolyC
-- GML (Game Maker Language)
-- Lua
-- C++
-- Bootstrap avançado
-- PHP e MySQL para back-end
+- HolyC  
+- GML (Game Maker Language)  
+- Lua  
+- C++ avançado  
+- Bootstrap avançado  
+- PHP & MySQL para back-end  
+- SemVer e versionamento semântico  
 
 ---
 
 ## 👨‍💻 Projetos em destaque
 
-- 🎮 Desenvolvimento de jogos com GML e C++
-- 🤖 Automação e robótica com Arduino
-- 🛠️ Sistemas web com PHP, MySQL e Bootstrap
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| 🎮 Jogos | GML, C++ | Desenvolvimento de jogos e sistemas de pontuação |
+| 🤖 Robótica | Arduino | Criação de robôs e automação de sistemas |
+| 🛠️ Web | PHP, MySQL, Bootstrap | Sistemas web responsivos e funcionais |
 
 ---
 
 ## 📫 Como entrar em contato
 
-- ✉️ Email: emailinstitucional20@gmail.com
+- ✉️ Email: emailinstitucional20@gmail.com  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -88,4 +92,3 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anthony-gg1" alt="Visitors" />
 </p>
-
