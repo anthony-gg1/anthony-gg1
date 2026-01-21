@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Anthony 👋</h1>
+<h1 align="center">Olá, eu sou Anthony</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Back-end+e+Front-end;Especialista+em+Bootstrap;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
@@ -18,12 +18,11 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante no IFAC  
+- 🎓 Estudante do IFAC  
 - 💻 Apaixonado por programação, jogos e automação  
 - 🕹️ Sempre em busca de novos desafios e aprendizado contínuo  
 - 🤖 Construo robôs com Arduino do zero  
 - 🧩 Crio projetos de jogos, automação e sistemas web  
-- 🛠️ Prefiro lógica e funcionalidade a puro design  
 
 ---
 
@@ -58,13 +57,10 @@
 
 ## 🌱 Atualmente aprendendo
 
-- HolyC  
 - GML (Game Maker Language)  
-- Lua  
-- C++ avançado  
-- Bootstrap avançado  
-- PHP & MySQL para back-end  
-- SemVer e versionamento semântico  
+- Lua
+- SemVer e versionamento semântico
+- Desenvolvimento de Jogos
 
 ---
 
@@ -72,7 +68,7 @@
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 🎮 Jogos | GML, C++ | Desenvolvimento de jogos e sistemas de pontuação |
+| 🎮 Jogos | GML, Lua | Desenvolvimento de jogos |
 | 🤖 Robótica | Arduino | Criação de robôs e automação de sistemas |
 | 🛠️ Web | PHP, MySQL, Bootstrap | Sistemas web responsivos e funcionais |
 
