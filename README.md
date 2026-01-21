@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Anthony</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Back-end+e+Front-end;Especialista+em+Bootstrap;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Sempre+Aprendendo+Mais;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
 
 <p align="center">
